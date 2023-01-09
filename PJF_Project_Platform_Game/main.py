@@ -778,6 +778,7 @@ while run:
                           SCREEN_HEIGHT - 150)
                 if restart_button.draw(screen):
                     player_health = 200
+                    player_score = 0
                     background_reset_fx.stop()
                     death_fade.fade_counter = 0
                     start_intro = True
