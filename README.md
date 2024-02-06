@@ -1,4 +1,4 @@
-# Simple platform game made in Python
+# ForestArcher platform game made in Python
 
 Project was made as a part of Functional Programing course at Military University of Technology in Warsaw
 
